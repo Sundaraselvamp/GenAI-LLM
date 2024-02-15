@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+google-cloud-dialogflow
+google-generativeai
+google-api-python-client
+googletrans
